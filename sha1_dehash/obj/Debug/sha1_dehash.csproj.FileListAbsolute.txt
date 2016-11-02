@@ -1,0 +1,6 @@
+C:\Users\annik\Desktop\a4\problem1\sha1_dehash\sha1_dehash\bin\Debug\sha1_dehash.exe.config
+C:\Users\annik\Desktop\a4\problem1\sha1_dehash\sha1_dehash\bin\Debug\sha1_dehash.exe
+C:\Users\annik\Desktop\a4\problem1\sha1_dehash\sha1_dehash\bin\Debug\sha1_dehash.pdb
+C:\Users\annik\Desktop\a4\problem1\sha1_dehash\sha1_dehash\obj\Debug\sha1_dehash.csprojResolveAssemblyReference.cache
+C:\Users\annik\Desktop\a4\problem1\sha1_dehash\sha1_dehash\obj\Debug\sha1_dehash.exe
+C:\Users\annik\Desktop\a4\problem1\sha1_dehash\sha1_dehash\obj\Debug\sha1_dehash.pdb
